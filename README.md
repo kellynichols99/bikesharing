@@ -50,7 +50,7 @@ User Trips by Gender by Weekday:
 
 <h1>Challange Summary</h1>
 The bike sharing service is very popular in Manhattan, and is most popular with male users in the morning. However, the popularity did not last. Standard rush hours are themost popular times Monday - Friday and midday on Saturdays. 
-
-NOTE: I had several technical issues along the way with the Challenge. I worked with the AskBCS tutors and they were not able to resolve the issue as well. (see attached screenshot). You can see this visualizations, that have identifying numbers and not the specific genders listed. The saved Tableau file for some reason has only one visual though there were not errors when saving. 
-
+<br>
+NOTE: I had several technical issues along the way with the Challenge. I worked with the AskBCS tutors and they were not able to resolve the issue as well. (see screenshot from resources file). You can see this in visualizations, that have identifying numbers and not the specific genders listed. The saved Tableau file for some reason has only one visual though there were not errors when saving. 
+<br>
 [link to dashboard](https://public.tableau.com/app/profile/kelly.nichols/viz/Mod14Challenge_16577743740020/UserTripsbyGenderbyWeekday)
