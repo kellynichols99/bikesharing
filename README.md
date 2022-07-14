@@ -55,3 +55,5 @@ The bike sharing service is very popular in Manhattan, and is most popular with 
 NOTE: I had several technical issues along the way with the Challenge. I worked with the AskBCS tutors and they were not able to resolve the issue as well. (see screenshot from resources file). You can see this in visualizations, that have identifying numbers and not the specific genders listed. The saved Tableau file for some reason has only one visual though there were not errors when saving. 
 </br>
 [link to dashboard](https://public.tableau.com/app/profile/kelly.nichols/viz/Mod14Challenge_16577743740020/UserTripsbyGenderbyWeekday)
+
+</body>
